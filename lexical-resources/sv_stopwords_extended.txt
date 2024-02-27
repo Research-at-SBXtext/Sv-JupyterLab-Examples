@@ -37,7 +37,7 @@ allvarlig
 an
 and
 andel
-anders_tegnell
+#anders_tegnell
 andra
 andras
 ang
@@ -136,6 +136,8 @@ can
 cirka
 could
 courier
+#covid
+#covid-19
 d
 dag
 dagar
@@ -160,6 +162,7 @@ deras
 dess
 dessa
 dessutom
+dessvärre
 desto
 det
 detsamma
@@ -198,6 +201,7 @@ därefter
 däremot
 därför
 däribland
+därifrån
 därmed
 e
 edit
@@ -230,6 +234,7 @@ enligt
 ens
 er
 era
+#erik
 ert
 et
 etc
@@ -255,6 +260,7 @@ fanns
 fast
 feb
 fel
+#felicia
 fem
 femte
 femtio
@@ -373,6 +379,7 @@ ha
 had
 hade
 haft
+hamidi-nia
 han
 hand
 handla
@@ -387,6 +394,7 @@ he
 hej
 hel
 hela
+#helena
 heller
 hellre
 helst
@@ -512,6 +520,7 @@ januari
 januari-mars
 japp
 jasså
+#jenesuispasunvirus
 jo
 johansson
 ju
@@ -532,6 +541,7 @@ kallat
 kallats
 kan
 kanske
+#karin
 kl
 kl.
 klar
@@ -635,6 +645,7 @@ mer
 mera
 mer_eller_mindre
 mest
+m_fl
 mg
 mig
 miljarer
@@ -652,6 +663,7 @@ mm
 more
 mot
 motsvarande
+#mrna
 my
 mycket
 må
@@ -683,6 +695,7 @@ news
 news:
 ngn
 ni
+#nilsson
 nio
 nionde
 nittio
@@ -694,7 +707,6 @@ no
 nog
 noll
 #nordlund
-#nilsson
 not
 nov
 november
@@ -760,6 +772,7 @@ ovan
 owns
 par
 pblmd
+pblmd 
 per
 pers
 person
@@ -814,6 +827,7 @@ saker
 samlats
 samma
 sammanlagt
+sammanlagt 
 samt
 samtidigt
 samtidigt_som
@@ -1062,6 +1076,9 @@ utav
 ute
 utifrån
 va
+#vaccin
+#vaccination
+#vaccinera
 vad
 vadå
 valt
